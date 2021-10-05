@@ -1,3 +1,11 @@
+# Goal
+
+Build a simple weather forecast application based on the OpenWeatherMap API (https://www.openweathermap.org/api). 
+
+You can sign up for a free account and API key at https://home.openweathermap.org/users/sign_up.
+
+**NOTE: You should not commit your API key to your source code.**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
