@@ -6,6 +6,12 @@ You can sign up for a free account and API key at https://home.openweathermap.or
 
 **NOTE: You should not commit your API key to your source code.**
 
+# OpenWeather API
+
+- https://www.openweathermap.org/current - Current weather for one location
+- https://www.openweathermap.org/forecast5 - 5-day forecast
+- https://openweathermap.org/weather-conditions - Weather conditions with icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
